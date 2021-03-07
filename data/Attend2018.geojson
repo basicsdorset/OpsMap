@@ -1,0 +1,30 @@
+var ATTEND2018 = {
+"type": "FeatureCollection",
+"name": "Attend2018",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "POSTCODE": "BH2 5RT", "AREA": "BH2", "TOWN": "BOURNEMOUTH", "LAT": 50.7198548, "LON": -1.884540354, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.88454, 50.71985 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH6 4BE", "AREA": "BH6", "TOWN": "BOURNEMOUTH", "LAT": 50.71980635, "LON": -1.791755, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.79175, 50.71981 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH13 7QN", "AREA": "BH13", "TOWN": "POOLE", "LAT": 50.68335398, "LON": -1.948198267, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.9482, 50.68335 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3AG", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.71942391, "LON": -1.860502533, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.8605, 50.71942 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH23 4AN", "AREA": "BH23", "TOWN": "CHRISTCHURCH", "LAT": 50.72934867, "LON": -1.734302464, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.7343, 50.72935 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH7 6PP", "AREA": "BH7", "TOWN": "BOURNEMOUTH", "LAT": 50.73824246, "LON": -1.818925145, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.81893, 50.73824 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH12 5BG", "AREA": "BH12", "TOWN": "POOLE", "LAT": 50.74372062, "LON": -1.915236874, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.91524, 50.74372 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH8 8AS", "AREA": "BH8", "TOWN": "BOURNEMOUTH", "LAT": 50.72779575, "LON": -1.860222697, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.86022, 50.7278 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH16 6JS", "AREA": "BH16", "TOWN": "POOLE", "LAT": 50.724337, "LON": -2.07934, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -2.07934, 50.72434 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH8 8QY", "AREA": "BH8", "TOWN": "BOURNEMOUTH", "LAT": 50.73314881, "LON": -1.854836497, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.85484, 50.73315 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 3SJ", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.72742175, "LON": -1.855860086, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.85586, 50.72742 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH15 4LH", "AREA": "BH15", "TOWN": "POOLE", "LAT": 50.7206483, "LON": -2.013433735, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -2.01343, 50.72065 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH21 4AJ", "AREA": "BH21", "TOWN": "WIMBORNE", "LAT": 50.80434568, "LON": -2.088259858, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -2.08826, 50.80435 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 4ED", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.72886767, "LON": -1.847283797, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.84728, 50.72887 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH15 2JB", "AREA": "BH15", "TOWN": "POOLE", "LAT": 50.72198598, "LON": -1.973116893, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.97312, 50.72199 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH12 1DF", "AREA": "BH12", "TOWN": "POOLE", "LAT": 50.72714213, "LON": -1.920891328, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.92089, 50.72714 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH21 2AD", "AREA": "BH21", "TOWN": "WIMBORNE", "LAT": 50.79823379, "LON": -1.971045, "TYPE": "TRAUMA" }, "geometry": { "type": "Point", "coordinates": [ -1.97104, 50.79823 ] } },
+{ "type": "Feature", "properties": { "POSTCODE": "BH1 4DZ", "AREA": "BH1", "TOWN": "BOURNEMOUTH", "LAT": 50.72937232, "LON": -1.848103933, "TYPE": "MEDICAL" }, "geometry": { "type": "Point", "coordinates": [ -1.8481, 50.72937 ] } }
+]
+}
